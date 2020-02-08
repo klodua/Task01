@@ -1,4 +1,4 @@
-package ua.com.kpi.mvcbasic;
+package ua.kpi.mvcbasic;
 
 import static java.lang.System.out;
 
