@@ -1,4 +1,4 @@
-package ua.kpi.mvcbasic;
+package ua.klodco.mvcbasic;
 
 public class Model {
     private String inputedString;

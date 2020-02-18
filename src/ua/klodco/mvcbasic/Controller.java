@@ -1,4 +1,4 @@
-package ua.kpi.mvcbasic;
+package ua.klodco.mvcbasic;
 
 import java.util.Scanner;
 
